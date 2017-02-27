@@ -8,12 +8,6 @@ public class Hello {
 		
 		System.out.println("三生style");
 		System.out.println("susu");
-		Date d = new Date();
-		System.out.println("haha ");
-		
-		
-		
-		
 	}
 
 }
