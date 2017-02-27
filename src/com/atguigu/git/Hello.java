@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("三生style");
 		System.out.println("susu");
 		// 三生三生十里桃花	
+		String	s = new String();
+		//
 	}
 
 }
