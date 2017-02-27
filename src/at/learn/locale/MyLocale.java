@@ -13,7 +13,7 @@ public class MyLocale {
 	public void locale() {
 		Locale locale = Locale.CHINA;
 		
-		DateFormat format = DateFormat.getDateTimeInstance(0,0, locale);
+		DateFormat format = DateFormat.getDateTimeInstance(0,1, locale);
 		String format2 = format.format(new Date());
 		System.out.println(format2);
 	}
