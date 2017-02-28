@@ -17,4 +17,8 @@ public class MyLocale {
 		String format2 = format.format(new Date());
 		System.out.println(format2);
 	}
+
+	public void function(){
+		System.out.println("111");
+	}
 }
